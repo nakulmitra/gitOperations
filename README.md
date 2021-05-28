@@ -1,7 +1,7 @@
 # gitOperations
 
-##Step 1: Create New Repositery
-Step 1.1: Click New 
+# Step 1: Create New Repositery
+  Step 1.1: Click New 
 ![](GitImg/new.PNG)
 
 Step 1.2: Give Repositery a name and click Create
