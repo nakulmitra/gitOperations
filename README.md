@@ -14,6 +14,7 @@
 # Step 2: If your git bash is not configure with your github
 
 $ git config --global user.name "Abc Xyz"
+
 $ git config --global user.email abcxyz@example.com
 
 # Step 3: Go to the folder where you want to make your local repositery
