@@ -44,6 +44,7 @@ Above command is used to add all the files to stage tree
 
 # Step 8: Check the status of add files
 $ git status
+
 ![](GitImg/gitStatus.PNG)
 
 # Step 9: Commit the changes
