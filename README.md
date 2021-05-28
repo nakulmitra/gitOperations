@@ -1,6 +1,6 @@
 # gitOperations
 
-#Step 1: Create New Repositery
+##Step 1: Create New Repositery
 Step 1.1: Click New 
 ![](GitImg/new.PNG)
 
