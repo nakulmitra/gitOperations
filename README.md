@@ -42,10 +42,10 @@ $ cd localRepositeryName
 
 ![](GitImg/tempFile.PNG)
 
-# Step 7: Add files to Staging state
+# Step 7: Add files to staging area
 $ git add .
 
-Above command is used to add all the files to stage tree
+Above command is used to add all the files to staging area
 
 ![](GitImg/gitAdd.PNG)
 
