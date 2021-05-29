@@ -27,7 +27,7 @@ $ cd folderPath
 ![](GitImg/goToFolder.PNG)
 
 # Step 4: Clone repositery
-$ git clone pasteRepositeryLink
+$ git clone repositeryLink
 
 Local Repositery will be created.
 
@@ -45,7 +45,7 @@ $ cd localRepositeryName
 # Step 7: Add files to staging area
 $ git add .
 
-Above command is used to add all the files to staging area
+Above command is used to add all the files to staging area.
 
 ![](GitImg/gitAdd.PNG)
 
