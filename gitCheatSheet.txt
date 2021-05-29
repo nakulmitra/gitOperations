@@ -10,7 +10,7 @@ $ git config --global user.email abcxyz@example.com
 
 ---------------------------------------------------------------
 
-git clone yourRepositeryLink                            ---> local repositery will be created on your folder
+git clone yourRepositoryLink                            ---> local repository will be created on your folder
 
 git add .                                               ---> to add all files to staging area.
 git add fileName                                        ---> to add single file to staging area.
@@ -18,13 +18,13 @@ git add fileName1 fileName2                             ---> to add multiple fil
 
 git commit -m "Upload Files"  
 
-git push origin master                                  ---> save changes to git repositery 
+git push origin master                                  ---> save changes to git repository
 
-git rm fileName                                         ---> remove file from saging area and local respositery
+git rm fileName                                         ---> remove file from saging area and local repository
 
 git log -- fileName                                     ---> filter out fileName commits
 
-git checkout hashCode(first 5 characters) -- fileName   ---> add file to staging area and local repositery.
+git checkout hashCode(first 5 characters) -- fileName   ---> add file to staging area and local repository
 
 git branch branchName                                   ---> create new branch
 
