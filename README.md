@@ -1,17 +1,17 @@
 # gitOperations
 
-# Step 1: Create New Repositery
+# Step 1: Create New Repository
   Step 1.1: Click New 
 
 ![](GitImg/new.PNG)
 
-  Step 1.2: Give Repositery a name and click Create
+  Step 1.2: Give Repository a name and click Create
 
 ![](GitImg/repoName.PNG)
 
-  Step 1.3: Copy the repositery link
+  Step 1.3: Copy the repository link
 
-  Code --> Copy repositery link
+  Code --> Copy repository link
 
 ![](GitImg/copyLink.PNG)
 
@@ -21,24 +21,24 @@ $ git config --global user.name "Abc Xyz"
 
 $ git config --global user.email abcxyz@example.com
 
-# Step 3: Go to the folder where you want to make your local repositery
+# Step 3: Go to the folder where you want to make your local repository
 $ cd folderPath
 
 ![](GitImg/goToFolder.PNG)
 
-# Step 4: Clone repositery
-$ git clone repositeryLink
+# Step 4: Clone repository
+$ git clone repositoryLink
 
-Local Repositery will be created.
+Local Repository will be created.
 
 ![](GitImg/cloneRepo.PNG)
 
-# Step 5: Go to local repositery
-$ cd localRepositeryName
+# Step 5: Go to local repository
+$ cd localRepositoryName
 
 ![](GitImg/localRepoFolder.PNG)
 
-# Step 6: Do changes on local repositery
+# Step 6: Do changes on local repository
 
 ![](GitImg/tempFile.PNG)
 
@@ -59,7 +59,7 @@ $ git commit -m "Message"
 
 ![](GitImg/gitCommit.PNG)
 
-# Step 10: Push changes of local repositery to github repositery
+# Step 10: Push changes of local repositery to github repository
 $ git push origin branchName
 
 Make sure pointer should points to that particular branch.
