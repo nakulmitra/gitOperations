@@ -75,30 +75,37 @@ Make sure pointer should points to that particular branch.
 ![](GitImg/structure.PNG)
 
 # Remove File
+$ git rm fileName
 
 ![](GitImg/removeFile.PNG)
 
-# See the commit history of particular file
+# See the Commit History of particular file
+$ git log -- fileName  
 
 ![](GitImg/history.PNG)
 
-# Recover the deleted file
+# Recover the Deleted File
+$ git checkout hashCode(first 5 characters) -- fileName
 
 ![](GitImg/recoverFile.PNG)
 
-# Make new branch
+# Make New Branch
+$ git branch branchName
 
 ![](GitImg/makeBranch.PNG)
 
-# Change branch
+# Change Branch
+$ git checkout branchName 
 
 ![](GitImg/changeBranch.PNG)
 
-# See all branches
+# See All Branches
+$ git branch
 
 ![](GitImg/allBranch.PNG)
 
-# Delete branch
+# Delete Branch
+$ git branch -d branchName  
 
 ![](GitImg/deleteBranch.PNG)
 
