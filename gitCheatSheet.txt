@@ -1,0 +1,47 @@
+If you don't have Git Bash in your system 
+
+download link --->  https://git-scm.com/downloads
+
+---------------------------------------------------------------
+If your git bash is not configure with your github
+
+$ git config --global user.name "AbcXyz"
+$ git config --global user.email abcxyz@example.com
+
+---------------------------------------------------------------
+
+git clone yourRepositeryLink                            ---> local repositery will be created on your folder
+
+git add .                                               ---> to add all files to staging area.
+git add fileName                                        ---> to add single file to staging area.
+git add fileName1 fileName2                             ---> to add multiple files to staging area.
+
+git commit -m "Upload Files"  
+
+git push origin master                                  ---> save changes to git repositery 
+
+git rm fileName                                         ---> remove file from saging area and local respositery
+
+git log -- fileName                                     ---> filter out fileName commits
+
+git checkout hashCode(first 5 characters) -- fileName   ---> add file to staging area and local repositery.
+
+git branch branchName                                   ---> create new branch
+
+git checkout branchName                                 ---> change branch 
+
+git branch                                              ---> show all branches
+
+git branch -d branchName                                ---> delete branch
+
+
+
+
+
+
+
+
+
+
+
+
