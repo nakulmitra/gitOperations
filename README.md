@@ -70,6 +70,36 @@ Make sure pointer should points to that particular branch.
 
 ![](GitImg/changes.PNG)
 
+# Some other operations
 
+![](GitImg/structure.PNG)
+
+# Remove File
+
+![](GitImg/removeFile.PNG)
+
+# See the commit history of particular file
+
+![](GitImg/history.PNG)
+
+# Recover the deleted file
+
+![](GitImg/recoverFile.PNG)
+
+# Make new branch
+
+![](GitImg/makeBranch.PNG)
+
+# Change branch
+
+![](GitImg/changeBranch.PNG)
+
+# See all branches
+
+![](GitImg/allBranch.PNG)
+
+# Delete branch
+
+![](GitImg/deleteBranch.PNG)
 
  
